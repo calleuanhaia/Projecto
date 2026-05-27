@@ -1,6 +1,6 @@
 <?php
     $host="localhost";
-    $dbname = "mercado2";
+    $dbname = "projeto";
     $user = "root";
     $pass = "senai";
 
